@@ -1,4 +1,4 @@
-# Tech interviews
+# Interview prep material
 
 > Some links that have proved useful for preparing interviews :)
 
