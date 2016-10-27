@@ -6,9 +6,9 @@ Feel free to contribute!
 
 ### Links
 
-* [The Technical Interview by Techmasters community](https://blog.techmasters.chat/the-technical-interview-rift-cf5d4cf6d2c#.nk8d1t729) (techmasters.chat)
+* [Tips by Techmasters community](https://blog.techmasters.chat/the-technical-interview-rift-cf5d4cf6d2c#.nk8d1t729) (techmasters.chat)
 * [Funny bad practice at Google](http://www.gwan.com/blog/20160405.html) (gwan.com)
-* [Overview by a cool recruiting platform from the US](http://blog.triplebyte.com/how-to-pass-a-programming-interview) (triplebyte.com)
+* [Overview by cool US recruiting platform](http://blog.triplebyte.com/how-to-pass-a-programming-interview) (triplebyte.com)
 * [Awesome Interview Questions list](https://github.com/MaximAbramchuck/awesome-interview-questions) (github.com)
 * [Great resources about technical topics](https://github.com/andreis/interview) (github.com)
 * [Tips by founders](https://www.themuse.com/advice/13-startup-founders-share-how-to-nail-your-next-interview) (themuse.com)
