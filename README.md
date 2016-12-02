@@ -6,6 +6,7 @@ Feel free to contribute!
 
 ### Links
 
+* [Build rapport during interviews](http://www.wsj.com/articles/how-to-build-instant-rapport-in-an-interview-1480436936) (wsj.com)
 * [Tips by Techmasters community](https://blog.techmasters.chat/the-technical-interview-rift-cf5d4cf6d2c#.nk8d1t729) (techmasters.chat)
 * [Funny bad practice at Google](http://www.gwan.com/blog/20160405.html) (gwan.com)
 * [Another funny bad practice at Amazon](https://rajk.me/amazon-interview-experience/) (rajk.me)
