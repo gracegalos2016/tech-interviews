@@ -1,10 +1,10 @@
-# Interview prep material
+# Technical Roles
 
 > Some links that have proved useful for preparing interviews :)
 
 Feel free to contribute!
 
-### Links
+### Interview preparation
 
 * [What 3 characteristics interviewers are looking for](http://www.huffingtonpost.com/entry/never-hire-people-without-these-3-characteristics_us_5769752de4b048b0aa9b93c2) (huffingtonpost.com)
 * [Build rapport during interviews](http://www.wsj.com/articles/how-to-build-instant-rapport-in-an-interview-1480436936) (wsj.com)
@@ -18,3 +18,7 @@ Feel free to contribute!
 * [(Web Developer) Interview guide](http://blog.startupinstitute.com/2015-8-10-web-developer-interview/) (startupinstitute.com)
 * [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (github.com)
 * [Technical interview wiki](https://github.com/mission-peace/interview/wiki) (github.com)
+
+### The CTO role
+
+* [#define CTO by former CTO of Strip](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) (gregbrockman.com)
