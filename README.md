@@ -1,8 +1,6 @@
 # Technical Roles
 
-> Some links that have proved useful for preparing interviews :)
-
-Feel free to contribute!
+> Some links that have proved useful :) Feel free to contribute!
 
 ### Interview preparation
 
