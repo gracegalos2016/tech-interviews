@@ -1,4 +1,4 @@
-# Technical Roles
+# Career as a Software Developer
 
 > Some links that have proved useful :) Feel free to contribute!
 
@@ -16,6 +16,9 @@
 * [(Web Developer) Interview guide](http://blog.startupinstitute.com/2015-8-10-web-developer-interview/) (startupinstitute.com)
 * [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) (github.com)
 * [Technical interview wiki](https://github.com/mission-peace/interview/wiki) (github.com)
+
+### Career planning
+* [Career planning framework](https://docs.google.com/document/d/1MBpwNLl3AgsKi4Yh4PZ2X30PYy4gV9xK2xgqXKevaVQ/preview) (docs.google.com)
 
 ### The CTO role
 
